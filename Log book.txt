@@ -1,0 +1,65 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: Empat
+Judul Topik: Google
+Alamat Github: https://github.com/suryadi121/Presentasi-Google
+Alamat Trello: https://trello.com/b/7wlexXdg/tkppl-google
+Anggota 1:
+	Nama: SURIYADI
+	NIM: 121113011
+Anggota 2:
+	Nama: PRAYOGO
+	NIM: 121112571
+Anggota 3:
+	Nama: Fachri Ahmad Husin
+	NIM: 121111524
+Anggota 4:
+	Nama: Adjie Guswanda
+	NIM: 121112627
+
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+2/6 - 4/6
+Scrummaster: SURIYADI (121113011)
+
+Sprint 2:
+5/6 - 7/6
+Scrummaster: PRAYOGO (121112571)
+
+Sprint 3:
+9/6 - 11/6
+Scrummaster: Fachri Ahmad Husin (121111524)
+
+Sprint 3:
+12/6 - 14/6
+Scrummaster: Adjie Guswanda (121112627)
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+2/6 
+Daily Scrum
+(SURIYADI):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Mengerjakan membuat slide sekilas tentang google
+3. Saya ada kendala ketika teman yg lain melakukan pull request, tidak bisa diselesaikan secara otomatis. sehingga jadi bercabang dan tidak tahu cara menyatukannya
+
+(PRAYOGO):
+1. --
+2. Hari ini saya mengerjakan bagian slide Produk
+3. Saya ada kendala di push, saya kurang paham
+
+(Fachri Ahmad Husin):
+1. --
+2. Hari ini saya mengerjakan tentang slide sejarah google
+3. Saya ada kendala di ketika pull, bingung yang mana yang mau di pull
+
+(Adjie Guswanda):
+1. --
+2. Hari ini saya add slide Pendiri Google
+3. Saya tidak ada kendala
