@@ -63,3 +63,26 @@ Daily Scrum
 1. --
 2. Hari ini saya add slide Pendiri Google
 3. Saya tidak ada kendala
+
+
+3/6 
+Daily Scrum
+(SURIYADI):
+1. Semalam saya mengerjakan slide sekilas tentang google
+2. Mengerjakan membuat slide sekilas tentang google
+3. saya tidak ada kendala
+
+(PRAYOGO):
+1. semalam saya mengerjakan slide produk google
+2. hari ini saya saya mengerjakan slide  produk telepon genggam
+3. saya ada kendala di commit dimana keluar dari cabang
+
+(Fachri Ahmad Husin):
+1. semalam saya mengerjakan tentang slide sejarah google
+2. Hari ini saya melanjutin mmbuat slide sejarah google
+3. Ketika saya ngepull, repository local saya jadi error, terpaksa harus cloning ulang.
+
+(Adjie Guswanda):
+1. --
+2. --
+3. --
