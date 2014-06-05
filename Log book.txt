@@ -87,7 +87,7 @@ Daily Scrum
 2. --
 3. --
 
-3/6 
+4/6 
 Daily Scrum
 (SURIYADI):
 1. Semalam saya membuat slide Produk - Komunikasi
@@ -102,9 +102,31 @@ Daily Scrum
 (Fachri Ahmad Husin):
 1. semalam saya mengerjakan tentang slide sejarah google
 2. Hari ini saya melanjutin slide dari sejarah google
-3. saya ada kendala di
+3. saya ada kendala di push
 
 (Adjie Guswanda):
 1. semalam saya tidak ada mengerjakan apa apa
 2. hari ini saya mengerjakan slide Produk - Aplikasi pencarian
 3. saya ada kendala di pull request
+
+5/6
+Daily Scrum
+(SURIYADI):
+1. Semalam saya melanjutkan slide Produk-Komunikasi
+2. hari ini saya buat slide gambar produk google
+3. saya tidak ada kendala
+
+(PRAYOGO):
+1. semalam saya melanjutkan slide Produk-Telepon Genggam
+2. hari ini saya mengerjakan Produk-Hiburan
+3. saya tidak ada kendala
+
+(Fachri Ahmad Husin):
+1. semalam saya mengerjakan tentang slide sejarah google
+2. Hari ini saya membuat slide Prinsip Google
+3. saya tidak ada kendala
+
+(Adjie Guswanda):
+1. -
+2. hari ini saya mengerjakan slide Kebiasaan dan Budaya Google
+3. saya tidak ada kendala
