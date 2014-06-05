@@ -45,7 +45,7 @@ Progress Harian (Diupdate tiap hari)
 2/6 
 Daily Scrum
 (SURIYADI):
-1. Semalam saya.. (abaikan jika hari pertama)
+1. 
 2. Mengerjakan membuat slide sekilas tentang google
 3. Saya ada kendala ketika teman yg lain melakukan pull request, tidak bisa diselesaikan secara otomatis. sehingga jadi bercabang dan tidak tahu cara menyatukannya
 
@@ -69,7 +69,7 @@ Daily Scrum
 Daily Scrum
 (SURIYADI):
 1. Semalam saya mengerjakan slide sekilas tentang google
-2. Mengerjakan membuat slide sekilas tentang google
+2. Mengerjakan membuat slide Produk komunikasi
 3. saya tidak ada kendala
 
 (PRAYOGO):
@@ -86,3 +86,25 @@ Daily Scrum
 1. --
 2. --
 3. --
+
+3/6 
+Daily Scrum
+(SURIYADI):
+1. Semalam saya membuat slide Produk - Komunikasi
+2. hari ini saya melanjutkan slide Produk - Komunikasi
+3. saya ada kendala ketika banyak yang pull request
+
+(PRAYOGO):
+1. semalam saya mengerjakan mengerjakan slide  produk telepon genggam
+2. hari ini saya saya melanjutkan slide  produk telepon genggam
+3. saya ada kendala di Push nya
+
+(Fachri Ahmad Husin):
+1. semalam saya mengerjakan tentang slide sejarah google
+2. Hari ini saya melanjutin slide dari sejarah google
+3. saya ada kendala di
+
+(Adjie Guswanda):
+1. semalam saya tidak ada mengerjakan apa apa
+2. hari ini saya mengerjakan slide Produk - Aplikasi pencarian
+3. saya ada kendala di pull request
