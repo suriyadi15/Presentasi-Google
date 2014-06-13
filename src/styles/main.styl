@@ -50,9 +50,7 @@ article
     perspective: 600px
 
 .bespoke-slide
-  transition:
-    -webkit-transform .6s ease,opacity .6s ease,background .6s ease
-  transform-origin: 50% 50% 0
+  transition:-webkit-transform .6s ease,opacity .6s ease,background .6s ease
   backface-visibility: hidden
   display: flex
   flex-direction: column
@@ -81,7 +79,7 @@ article
   transform: translateX(640px) translateX(-320px) rotateY(-20deg) translateX(-320px)
 
 .bespoke-after
-  transform: ttranslateX(-640px) translateX(320px) rotateY(20deg) translateX(320px)
+  transform: translateX(-640px) translateX(320px) rotateY(20deg) translateX(320px)
   @media print
     transform: none
 
